@@ -1,0 +1,26 @@
+POST http://localhost/contact-api/api/create.php
+content-type: application/json
+
+{
+    "street": null,
+    "street_2": null,
+    "city": null,
+    "province": null,
+    "country": null,
+    "postal": null,
+    "prefix": null,
+    "first_name": null,
+    "mid_name": null,
+    "last_name": null,
+    "suffix": null,
+    "nickname": null,
+    "birthday": null,
+    "job": null,
+    "department": null,
+    "company": null,
+    "website": null,
+    "note": null,
+    "email": null,
+    "phone": null,
+    "mobile": null
+}

@@ -1,0 +1,1 @@
+GET http://localhost/contact-api/api/detail.php?id=
