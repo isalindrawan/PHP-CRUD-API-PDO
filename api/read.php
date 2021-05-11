@@ -43,7 +43,19 @@ if ($num > 0) {
             "mid_name" => $row['MID_NAME'],
             "last_name" => $row['LAST_NAME'],
             "suffix" => $row['SUFFIX'],
-            "nickname" => $row['NICKNAME']
+            "nickname" => $row['NICKNAME'],
+            "street" => $row['STREET'],
+            "street_2" => $row['STREET_2'],
+            "city" => $row['CITY'],
+            "province" => $row['PROVINCE'],
+            "country" => $row['COUNTRY'],
+            "postal" => $row['POSTAL'],
+            "birthday" => $row['BIRTHDAY'],
+            "job_title" => $row['JOB_TITLE'],
+            "department" => $row['DEPARTMENT'],
+            "company" => $row['COMPANY'],
+            "website" => $row['WEBSITE'],
+            "note" => $row['NOTE']
         );
 
         // push data to array
