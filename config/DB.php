@@ -3,7 +3,7 @@
 class DB {
 
     private $host = "localhost";
-    private $db_name = "contact_app";
+    private $db_name = "contact_rest";
     private $username = "root";
     private $password = "";
     public $connection;
